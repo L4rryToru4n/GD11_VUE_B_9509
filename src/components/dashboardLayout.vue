@@ -50,7 +50,7 @@
                 clipped-left             
                 height="70px"             
                 color="grey darken-3">             
-                <v-app-bar-nav-icon @click.stop="drawer = !drawer"></v-app-barnav-icon>
+                <v-app-bar-nav-icon @click.stop="drawer = !drawer"></v-app-bar-nav-icon>
 
                 <VSpacer />
 
